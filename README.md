@@ -13,8 +13,8 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 ### 🤝 Connect with me:
 
 
-<a href="https://www.linkedin.com/in/yonathan-allouch"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/linkedin.svg" alt="Yonathan Allouch | LinkedIn" width="21px"/></a>
-<a href="https://https://www.instagram.com/yoniallouch/"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/instagram.svg" alt="Yonathan Allouch | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/yonathan-allouch"><img align="left" src="github.com/YonathanAllouch/Yonathan-Allouch/linkedin.svg" alt="Yonathan Allouch | LinkedIn" width="21px"/></a>
+<a href="https://https://www.instagram.com/yoniallouch/"><img align="left" src="github.com/YonathanAllouch/Yonathan-Allouch/instagram.svg" alt="Yonathan Allouch | Instagram" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
