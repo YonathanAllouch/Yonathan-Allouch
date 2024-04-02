@@ -14,9 +14,9 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 
 
 
-<a href="https://www.linkedin.com/in/yonathan-allouch"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/linkedin.svg" alt="Yonathan Allouch | LinkedIn" width="21px"/></a>
-<a href="https://https://www.instagram.com/yoniallouch/"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/instagram.svg" alt="Yonathan Allouch | Instagram" width="21px"/></a>
-
+<a href="https://www.linkedin.com/in/yonathan-allouch"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/linkedin.svg" alt="Yonathan Allouch | LinkedIn" width="32px"/></a>
+<a href="https://https://www.instagram.com/yoniallouch/"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/instagram.svg" alt="Yonathan Allouch | Instagram" width="32px"/></a>
+</br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -50,12 +50,15 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 </br>
-
+![FastApi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
