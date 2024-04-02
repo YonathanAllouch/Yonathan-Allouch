@@ -12,10 +12,13 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 
 ### 🤝 Connect with me:
 
-![Email](https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/linkedin.svg) yoniallouch@gmail.com
+
 
 <a href="https://www.linkedin.com/in/yonathan-allouch"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/linkedin.svg" alt="Yonathan Allouch | LinkedIn" width="32px"/></a>
 <a href="https://https://www.instagram.com/yoniallouch/"><img align="left" src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/instagram.svg" alt="Yonathan Allouch | Instagram" width="32px"/></a>
+<a href="mailto:yoniallouch@gmail.com">
+  <img src="https://github.com/YonathanAllouch/Yonathan-Allouch/blob/main/gmail-icon-logo-svgrepo-com.svg?raw=true" alt="Email Yonathan Allouch" width="32px"/>
+</a>
 </br>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -28,9 +31,10 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 - Computer Science 
 
 ## 💼 Technical Skills
-</br>
-##Programming Languages
-</br>
+
+ ### Programming Languages
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -38,16 +42,16 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
-</br>
-##Database Management
-</br>
+
+  ### Database Management
+
+
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-</br>
-##Infrastructure & Dev Tools
-</br>
+
+  ### Infrastructure & Dev Tools
 
 ![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Amazon_AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -72,4 +76,5 @@ I'm a Software Engineer 💻, Passionate about Artificial Intelligence 🌐!
 [![Yonathan’s github stats](https://github-readme-stats.vercel.app/api?username=YonathanAllouch)](https://github.com/YonathanAllouch)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YonathanAllouch&layout=compact)](https://github.com/YonathanAllouch)
+
 
