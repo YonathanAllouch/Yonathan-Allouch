@@ -1,6 +1,6 @@
 # Yonathan-Allouch
 <p align="center">
-  <img src="https://github.com/YonathanAllouch/Yonathan-Allouch/assets/120686124/5c177f6e-637d-4575-9928-c35714289dc1" alt=”my banner”>
+  <img src="Navy Blue Geometric Technology LinkedIn Banner-2.png" alt=”my banner”>
 </p>
 
 <h3 align="center">
